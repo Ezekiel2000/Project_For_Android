@@ -1,0 +1,11 @@
+/*
+ Localizable.strings
+ SandArtP4U
+ 
+ Created by calvin on 14. 2. 10.
+ Copyright (c) 2014년 CCC Korea. All rights reserved.
+ */
+
+"Confirm" = "주의";
+"Remove_All_Files" = "이 실행은 내려받은 모든 동영상 파일을 삭제합니다. 실행 할까요?";
+"Remove_All_Contacts" = "이 실행은 저장된 모든 연락처를 삭제합니다. 실행 할까요?";
