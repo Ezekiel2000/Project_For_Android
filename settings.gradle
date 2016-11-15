@@ -1,0 +1,3 @@
+//include ':app', ':d01_helloworld'
+//include ':d02_intenttest', ':d02_activityjumptest', ':d02_activityresulttest', ':d02_keycallbacktest', ':d02_linearlayouttest'
+include ':d03_paddingmarginintest', ':d03_linearlayouttest_weight', ':d03_relativelayouttest'

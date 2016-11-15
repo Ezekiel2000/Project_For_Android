@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project_for_Android.iml" filepath="$PROJECT_DIR$/Project_for_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d03_linearlayouttest_weight/d03_linearlayouttest_weight.iml" filepath="$PROJECT_DIR$/d03_linearlayouttest_weight/d03_linearlayouttest_weight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d03_paddingmarginintest/d03_paddingmarginintest.iml" filepath="$PROJECT_DIR$/d03_paddingmarginintest/d03_paddingmarginintest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d03_relativelayouttest/d03_relativelayouttest.iml" filepath="$PROJECT_DIR$/d03_relativelayouttest/d03_relativelayouttest.iml" />
+    </modules>
+  </component>
+</project>
