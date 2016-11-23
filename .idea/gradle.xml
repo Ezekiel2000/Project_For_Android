@@ -9,9 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/d03_linearlayouttest_weight" />
-            <option value="$PROJECT_DIR$/d03_paddingmarginintest" />
-            <option value="$PROJECT_DIR$/d03_relativelayouttest" />
+            <option value="$PROJECT_DIR$/d06_actionbartest" />
+            <option value="$PROJECT_DIR$/d06_snackbar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
