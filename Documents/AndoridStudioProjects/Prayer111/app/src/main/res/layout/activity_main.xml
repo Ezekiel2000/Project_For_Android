@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.kccc.prayer111.MainActivity">
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="175dp"
+        app:layout_constraintGuide_percent="0.45572916" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline2"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="58dp"
+        app:layout_constraintGuide_percent="0.15104167" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="0dp"
+        android:layout_height="511dp"
+        android:id="@+id/guideline3"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.8541667"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="328dp" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline4"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5572917"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="214dp" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline5"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="462dp"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintGuide_percent="0.9041096" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline6"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.80430526"
+        tools:layout_editor_absoluteY="411dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline7"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.7553816"
+        tools:layout_editor_absoluteY="386dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline8"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="335dp"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintGuide_percent="0.6555773" />
+
+    <ImageButton
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:srcCompat="@drawable/month_btn"
+        android:id="@+id/imageButton"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline2"
+        app:layout_constraintRight_toLeftOf="@+id/guideline"
+        app:layout_constraintTop_toTopOf="@+id/guideline8"
+        app:layout_constraintBottom_toTopOf="@+id/guideline7" />
+
+    <ImageButton
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:srcCompat="@drawable/prayers"
+        android:id="@+id/imageButton2"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline4"
+        app:layout_constraintRight_toLeftOf="@+id/guideline3"
+        app:layout_constraintTop_toTopOf="@+id/guideline8"
+        app:layout_constraintBottom_toTopOf="@+id/guideline7" />
+
+    <ImageButton
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:srcCompat="@drawable/today_btn"
+        android:id="@+id/imageButton3"
+        app:layout_constraintTop_toTopOf="@+id/guideline6"
+        app:layout_constraintBottom_toTopOf="@+id/guideline5"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline2"
+        app:layout_constraintRight_toLeftOf="@+id/guideline" />
+
+    <ImageButton
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:srcCompat="@drawable/daytoday_btn"
+        android:id="@+id/imageButton4"
+        app:layout_constraintTop_toTopOf="@+id/guideline6"
+        app:layout_constraintRight_toLeftOf="@+id/guideline3"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline4"
+        app:layout_constraintBottom_toTopOf="@+id/guideline5" />
+
+</android.support.constraint.ConstraintLayout>
