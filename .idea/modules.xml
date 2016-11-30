@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project_for_Android.iml" filepath="$PROJECT_DIR$/Project_for_Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d06_actionbartest/d06_actionbartest.iml" filepath="$PROJECT_DIR$/d06_actionbartest/d06_actionbartest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d06_snackbar/d06_snackbar.iml" filepath="$PROJECT_DIR$/d06_snackbar/d06_snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" filepath="$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_dptest/d08_dptest.iml" filepath="$PROJECT_DIR$/d08_dptest/d08_dptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" filepath="$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" filepath="$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" filepath="$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" />
     </modules>
   </component>
 </project>
