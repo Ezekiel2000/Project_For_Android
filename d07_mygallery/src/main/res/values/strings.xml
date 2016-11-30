@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">D07_Mygallery</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

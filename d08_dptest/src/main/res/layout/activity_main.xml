@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.kccc.d08_dptest.MainActivity">
+
+    <TextView
+        android:id="@+id/model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/px160"
+        android:layout_width="160px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="160px"
+        android:textSize="10sp"/>
+
+    <TextView
+        android:id="@+id/px240"
+        android:layout_width="240px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="240px (1.5x)"
+        android:textSize="10sp"/>
+
+    <TextView
+        android:id="@+id/px320"
+        android:layout_width="320px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="320px (2.0x)"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/px400"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="400px (2.5x)"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/px480"
+        android:layout_width="480px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="480px (3.0x)"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/px5600"
+        android:layout_width="560px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="560px (3.5x)"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/px640"
+        android:layout_width="640px"
+        android:layout_height="wrap_content"
+        android:background="#abcdef"
+        android:text="640px (4.0x)"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/dp100"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="#abcd00"
+        android:text="160dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/in1.0"
+        android:layout_width="1.0in"
+        android:layout_height="wrap_content"
+        android:background="#ffcd00"
+        android:text="1.0in"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/pt72"
+        android:layout_width="72pt"
+        android:layout_height="wrap_content"
+        android:background="#ffcd7f"
+        android:text="72pt"
+        android:textSize="20sp"/>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project_for_Android.iml" filepath="$PROJECT_DIR$/Project_for_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" filepath="$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_dptest/d08_dptest.iml" filepath="$PROJECT_DIR$/d08_dptest/d08_dptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" filepath="$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" filepath="$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" filepath="$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" />
+    </modules>
+  </component>
+</project>
