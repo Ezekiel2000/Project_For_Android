@@ -13,6 +13,8 @@ import java.util.ArrayList;
  */
 
 public class Utils {
+    public static final String TRANSITION_NAME = "BG_TRANSITION";
+
     public static final String[] PROJECTION_GALLERY = new String[]{MediaStore.Images.Media._ID,
             MediaStore.Images.Media.DATA,
             MediaStore.Images.Media.DISPLAY_NAME,

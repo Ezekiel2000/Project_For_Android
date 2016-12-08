@@ -1,8 +1,11 @@
 package org.kccc.d07_mygallery;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.os.Bundle;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -83,6 +86,10 @@ public class GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.GalleryV
 
                         // TODO DetailActivity 에게 이미지 파일 경로에 대한 정보를 전달하세요.
                         intent.putExtra(DetailActivity.PATH, path);
+
+                Bundle bundle = ActivityOptionsCompat.makeSceneTransitionAnimation(
+                        (Activity) ctx, ivImage, Utils.TRANSITION_NAME).toBundle();
+
 
                         ctx.startActivity(intent);
                     }
