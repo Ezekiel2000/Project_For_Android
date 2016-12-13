@@ -6,7 +6,7 @@
 //include ':d05_sharedpreferencestest', ':d05_hanldertest', ':d05_permissionmodeltest', ':d05_cameratest'
 //include ':d06_snackbar', ':d06_actionbartest', ':d06_toolbarfabtest'
 //include ':d07_navigationviewtest', ':d07_postrecyclerviewtest', ':d07_recyclerviewtest'
-include ':d07_mygallery'
+include ':d07_mygallery', ':d11_fastchtting'
 //include ':d08_cardviewtest', ':d08_fragmenttest', ':d08_viewpagertest', ':d08_dptest', ':d08_dptestw400'
 //include ':d09_animationtest', ':d09_objectanimatortest', ':d09_shapeseletorstyletest', ':d09_scrollingtest', ':d09_asynctasktest'
 include ':d10_alertdialog', ':d10_fastground'

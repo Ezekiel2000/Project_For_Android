@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116183327050",
+    "firebase_url": "https://fast-chatting-e25d1.firebaseio.com",
+    "project_id": "fast-chatting-e25d1",
+    "storage_bucket": "fast-chatting-e25d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116183327050:android:bf17299b59beb6c4",
+        "android_client_info": {
+          "package_name": "org.kccc.d11_fastchtting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116183327050-li19es0ikl4po7u4feoou4n9kt42qif0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kccc.d11_fastchtting",
+            "certificate_hash": "18C3F5C4B9ED87BDD3A03D0C5CECA316EC845957"
+          }
+        },
+        {
+          "client_id": "116183327050-lt1en9ki2hah95e5tuqkefde3vj98i9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OYaugdg3tTLd5Pt4ieI8gcgCsPsUcoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116183327050-lt1en9ki2hah95e5tuqkefde3vj98i9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
