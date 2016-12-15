@@ -3,11 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project_for_Android.iml" filepath="$PROJECT_DIR$/Project_for_Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" filepath="$PROJECT_DIR$/d08_cardviewtest/d08_cardviewtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d08_dptest/d08_dptest.iml" filepath="$PROJECT_DIR$/d08_dptest/d08_dptest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" filepath="$PROJECT_DIR$/d08_dptestw400/d08_dptestw400.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" filepath="$PROJECT_DIR$/d08_fragmenttest/d08_fragmenttest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" filepath="$PROJECT_DIR$/d08_viewpagertest/d08_viewpagertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d07_mygallery/d07_mygallery.iml" filepath="$PROJECT_DIR$/d07_mygallery/d07_mygallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d10_alertdialog/d10_alertdialog.iml" filepath="$PROJECT_DIR$/d10_alertdialog/d10_alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d10_fastground/d10_fastground.iml" filepath="$PROJECT_DIR$/d10_fastground/d10_fastground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d11_fastchtting/d11_fastchtting.iml" filepath="$PROJECT_DIR$/d11_fastchtting/d11_fastchtting.iml" />
     </modules>
   </component>
 </project>

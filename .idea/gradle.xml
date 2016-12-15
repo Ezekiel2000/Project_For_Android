@@ -9,11 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/d08_cardviewtest" />
-            <option value="$PROJECT_DIR$/d08_dptest" />
-            <option value="$PROJECT_DIR$/d08_dptestw400" />
-            <option value="$PROJECT_DIR$/d08_fragmenttest" />
-            <option value="$PROJECT_DIR$/d08_viewpagertest" />
+            <option value="$PROJECT_DIR$/d07_mygallery" />
+            <option value="$PROJECT_DIR$/d10_alertdialog" />
+            <option value="$PROJECT_DIR$/d10_fastground" />
+            <option value="$PROJECT_DIR$/d11_fastchtting" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
